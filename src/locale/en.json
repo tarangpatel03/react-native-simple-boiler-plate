@@ -1,0 +1,10 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "error": "Something went wrong"
+  },
+  "home": {
+    "title": "Home Screen"
+  }
+}
