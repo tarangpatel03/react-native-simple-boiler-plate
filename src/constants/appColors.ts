@@ -1,0 +1,12 @@
+export const appColors = {
+  WHITE: '#FFFFFF',
+  BLACK: '#000000',
+  TRANSPARENT: 'transparent',
+  APP_1C1C1E: '#1C1C1E',
+  APP_F2F2F7: '#F2F2F7',
+  APP_38383A: '#38383A',
+  APP_E5E5EA: '#E5E5EA',
+  APP_8E8E93: '#8E8E93',
+  APP_A9A9AC: '#A9A9AC',
+  APP_007AFF: '#007AFF',
+};
